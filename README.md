@@ -1,4 +1,4 @@
-# Todo Application
+# Product Management Application
 
 A modern, fully-featured task and product management application built with React 19, TypeScript, and Vite. This project combines user authentication with robust task and product management capabilities, featuring a responsive design that works seamlessly across mobile and desktop devices. The application is powered by Redux Toolkit for state management and integrates with the DummyJSON API for real-time data operations.
 
